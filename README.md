@@ -1,1 +1,1 @@
-# phoenix-on-spark
+# phoenix-on-spark  [![Build Status](https://travis-ci.org/dawidwys/phoenix-on-spark.svg?branch=master)](https://travis-ci.org/dawidwys/phoenix-on-spark)

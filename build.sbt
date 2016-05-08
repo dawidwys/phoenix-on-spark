@@ -14,5 +14,6 @@ libraryDependencies ++= Seq(
   "org.apache.hbase" % "hbase-common" % "1.1.0.1" % "provided",
   "org.apache.hbase" % "hbase-server" % "1.1.0.1" % "provided",
   "org.apache.hbase" % "hbase-hadoop-compat" % "1.1.0.1" % "provided",
-  "org.scalatest" %% "scalatest" % "3.0.0-M15" % "test"
+  "org.scalatest" %% "scalatest" % "3.0.0-M15" % "test",
+  "sqlline" % "sqlline" % "1.1.9"
 )
